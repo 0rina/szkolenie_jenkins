@@ -1,1 +1,2 @@
 # szkolenie_jenkins
+zmaina
